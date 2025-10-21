@@ -153,7 +153,7 @@ int main(){
 
     cout << "\nGame is finished.";
     gBoard(arr);
-
+    getline(cin, input);
     return 0;
 }
 
